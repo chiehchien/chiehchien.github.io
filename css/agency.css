@@ -1,6 +1,6 @@
 
 
-body{overflow-x:hidden;font-family:"cwTeXHei","Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif}
+body{overflow-x:hidden;font-family:"cwTeXHei","Microsoft JhengHei","Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif}
 .text-muted{color:#777}
 .text-primary{color:#69BCD4}
 p{font-size:14px;line-height:1.75}
@@ -8,7 +8,7 @@ p.large{font-size:16px}
 a,a:hover,a:focus,a:active,a.active{outline:0}
 a{color:#69BCD4}
 a:hover,a:focus,a:active,a.active{color:#69BCD4}
-h1,h2,h3,h4,h5,h6{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
+h1,h2,h3,h4,h5,h6{font-family:"cwTeXHei","Microsoft JhengHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 .img-centered{margin:0 auto}
 .bg-light-gray{background-color:#f7f7f7}
 .bg-darkest-gray{background-color:#222}
@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5,h6{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica
 
 .close{hover:opacity:0.6}
 
-.btn-primary{color:#fff;background-color:#69BCD4;border-color:#69BCD4;font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
+.btn-primary{color:#fff;background-color:#69BCD4;border-color:#69BCD4;font-family:"cwTeXHei","Microsoft JhengHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{color:#fff;background-color:#69BCD4;border-color:#69BCD4}
 .btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{background-image:none}.btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active{background-color:#69BCD4;border-color:#69BCD4}
 .btn-primary .badge{color:#69BCD4;background-color:#fff}
@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica
 .navbar-default .navbar-collapse{border-color:rgba(255,255,255,.02)}.navbar-default .navbar-toggle{background-color:#69BCD4;border-color:#69BCD4}
 .navbar-default .navbar-toggle .icon-bar{background-color:#fff}
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{background-color:#69BCD4}
-.navbar-default .nav li a{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:400;letter-spacing:1px;color:#fff}
+.navbar-default .nav li a{font-family:"cwTeXHei","Microsoft JhengHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:400;letter-spacing:1px;color:#fff}
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus{color:#69BCD4;outline:0}
 .navbar-default .navbar-nav>.active>a{border-radius:0;color:#fff;background-color:#222}
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{color:#69BCD4;background-color:#222}@media (min-width:768px){.navbar-default{background-color:transparent;padding:25px 0;-webkit-transition:padding .3s;-moz-transition:padding .3s;transition:padding .3s;border:0}
@@ -46,14 +46,14 @@ h1,h2,h3,h4,h5,h6{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica
 
 header{background-repeat:none;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:#fff}
 header .intro-text{padding-top:100px;padding-bottom:50px}
-header .intro-text .intro-lead-in{font-family:"cwTeXHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:22px;line-height:22px;margin-bottom:25px}
-header .intro-text .intro-heading{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700;font-size:50px;line-height:50px;margin-bottom:25px}
+header .intro-text .intro-lead-in{font-family:"cwTeXHei","Microsoft JhengHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:22px;line-height:22px;margin-bottom:25px}
+header .intro-text .intro-heading{font-family:"cwTeXHei","Microsoft JhengHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700;font-size:50px;line-height:50px;margin-bottom:25px}
 @media (min-width:768px){header .intro-text{padding-top:300px;padding-bottom:200px}
-header .intro-text .intro-lead-in{font-family:"cwTeXHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:40px;line-height:40px;margin-bottom:25px}
-header .intro-text .intro-heading{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700;font-size:75px;line-height:75px;margin-bottom:50px}}
+header .intro-text .intro-lead-in{font-family:"cwTeXHei","Microsoft JhengHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:40px;line-height:40px;margin-bottom:25px}
+header .intro-text .intro-heading{font-family:"cwTeXHei","Microsoft JhengHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700;font-size:75px;line-height:75px;margin-bottom:50px}}
 section{padding:100px 0}
 section h2.section-heading{font-size:40px;margin-top:0;margin-bottom:15px}
-section h3.section-subheading{font-size:16px;font-family:"cwTeXHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:none;font-weight:400;margin-bottom:75px}
+section h3.section-subheading{font-size:16px;font-family:"cwTeXHei","Microsoft JhengHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:none;font-weight:400;margin-bottom:75px}
 @media (min-width:768px){section{padding:150px 0}}
 
 .service-heading{margin:15px 0;text-transform:none}
@@ -67,7 +67,7 @@ section h3.section-subheading{font-size:16px;font-family:"cwTeXHei","Droid Serif
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4{margin:0}
 #portfolio .portfolio-item .portfolio-caption{max-width:400px;margin:0 auto;background-color:#fff;text-align:center;padding:25px}
 #portfolio .portfolio-item .portfolio-caption h4{text-transform:none;margin:0}
-#portfolio .portfolio-item .portfolio-caption p{font-family:"cwTeXHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;margin:0}#portfolio *{z-index:2}@media (min-width:767px){#portfolio .portfolio-item{margin:0 0 30px}}
+#portfolio .portfolio-item .portfolio-caption p{font-family:"cwTeXHei","Microsoft JhengHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;margin:0}#portfolio *{z-index:2}@media (min-width:767px){#portfolio .portfolio-item{margin:0 0 30px}}
 
 .portfolio-link h4{color:#222}
 .portfolio-link h4:hover{color:#69BCD4;text-decoration:none}
@@ -129,7 +129,7 @@ ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a
 .portfolio-modal .modal-content{border-radius:0;background-clip:border-box;-webkit-box-shadow:none;box-shadow:none;border:0;min-height:100%;padding:0px 0;text-align:left}
 .portfolio-modal .modal-content h2{margin-bottom:15px;font-size:3em;text-align:center}
 .portfolio-modal .modal-content p{margin-bottom:30px;text-align:left}
-.portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family:"cwTeXHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;text-align:center}
+.portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family:"cwTeXHei","Microsoft JhengHei","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;text-align:center}
 .portfolio-modal .modal-content ul.list-inline{margin-bottom:30px;margin-top:0}
 .portfolio-modal .modal-content img{margin-bottom:30px}
 .portfolio-modal .close-modal{position:absolute;width:75px;height:50px;background-color:transparent;top:50px;right:50px;cursor:pointer}
