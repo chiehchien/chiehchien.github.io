@@ -13,6 +13,9 @@ h1,h2,h3,h4,h5,h6{font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica
 .bg-light-gray{background-color:#f7f7f7}
 .bg-darkest-gray{background-color:#222}
 
+
+.close{hover:opacity:0.6}
+
 .btn-primary{color:#fff;background-color:#69BCD4;border-color:#69BCD4;font-family:"cwTeXHei","Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{color:#fff;background-color:#69BCD4;border-color:#69BCD4}
 .btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{background-image:none}.btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active{background-color:#69BCD4;border-color:#69BCD4}
