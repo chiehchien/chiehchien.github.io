@@ -26,6 +26,10 @@ h1,h2,h3,h4,h5,h6{font-family:"STHeiti","cwTeXHei","Microsoft JhengHei","Montser
 .btn-xl.disabled,.btn-xl[disabled],fieldset[disabled] .btn-xl,.btn-xl.disabled:hover,.btn-xl[disabled]:hover,fieldset[disabled] .btn-xl:hover,.btn-xl.disabled:focus,.btn-xl[disabled]:focus,fieldset[disabled] .btn-xl:focus,.btn-xl.disabled:active,.btn-xl[disabled]:active,fieldset[disabled] .btn-xl:active,.btn-xl.disabled.active,.btn-xl[disabled].active,fieldset[disabled] .btn-xl.active{background-color:#69BCD4;border-color:#69BCD4}
 .btn-xl .badge{color:#69BCD4;background-color:#fff}
 
+
+.page-scroll h5{padding-top: 500px}
+.page-scroll h5:hover{opacity:0.5}
+
 .navbar-default{background-color:#222;border-color:transparent}
 .navbar-default .navbar-brand{color:#FFFFFF;font-family:"Poiret One","Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;font-weight:bold;}
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{color:#69BCD4}
